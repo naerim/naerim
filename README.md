@@ -10,6 +10,7 @@
 | Individual |    2020.6.15 ~ 6.30    |   just-colors  |               C#              |
 |    Team    |    2020.8.15 ~ 8.21    | grace_website  | html, css, Javascript, django |
 |    Team    | 2020.10.28 ~ 2021.1.09 | dobble_website |        React, firebase        |
+|    Team    |    2021.1.29 ~ 2.12    | dailygreen_app |   Android & Kotlin, firebase  |
 
 ### 📚 Studies
 ![GitHub message](https://img.shields.io/badge/React-black?style=flat&logo=react) ![GitHub message](https://img.shields.io/badge/React_Native-764abc?style=flat&logo=react&logoColor=white) ![GitHub message](https://img.shields.io/badge/Kotlin_&_ANDROID-0095d5?style=flat&logo=android&logoColor=white) ![GitHub message](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white) ![GitHub message](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![GitHub message](https://img.shields.io/badge/Typescript-3178c6?style=flat&logo=typescript&logoColor=white)
