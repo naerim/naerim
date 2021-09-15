@@ -15,11 +15,9 @@
 <br />
  
 #### 🐳  About me  🐳
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naerim&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naerim&layout=compact&height=50)](https://github.com/anuraghazra/github-readme-stats)
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naerim&show_icons=true&theme=default)  
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=b7e0e2&height=150&section=footer&animation=fadeIn&descAlign=56)
+
  
 </div>
 
