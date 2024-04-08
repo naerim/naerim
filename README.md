@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=b7e0e2&height=280&section=header&text=naerim&fontSize=60&desc=hi%20there%20👋&animation=fadeIn&descAlign=56)
+![header](https://capsule-render.vercel.app/api?type=venom&color=b7e0e2&height=200&section=header&text=naerim's%20github&fontSize=60)
 
 ## Experience
 💻 SSAFY (삼성 청년 SW 아카데미) 10기 재학 (2023.07~) 
@@ -6,8 +6,6 @@
 💻 IT 개발 동아리 PurpleCode 1기 (2020.03 ~ 2021.01)  
 
 🎓 서울여자대학교 소프트웨어융합학과 졸업 (2018.03 ~ 2023.02) 
-
-<br />
 
 ## Projects
 <table>
@@ -48,16 +46,12 @@
   </tr>
 </table>
 
-<br />
-
 ## Tech Stack
 - Languages : Javascript, Typescript, Java
 - Frontend : React, React-Native, Vue
 - Backend : Springboot
 - Database : Mysql, Firebase
 - Communication : Git, Jira, Notion
-
-<br />
 
 ## Awards
 🏆 삼성 청년 SW 아카데미 공통 프로젝트 우수상 (2024.02)  
