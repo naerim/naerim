@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=b7e0e2&height=200&section=header&text=naerim's%20github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=venom&color=b7e0e2&height=160&section=header&text=naerim's%20github&fontSize=40)
 
 ## Experience
 💻 SSAFY (삼성 청년 SW 아카데미) 10기 재학 (2023.07~) 
@@ -6,6 +6,8 @@
 💻 IT 개발 동아리 PurpleCode 1기 (2020.03 ~ 2021.01)  
 
 🎓 서울여자대학교 소프트웨어융합학과 졸업 (2018.03 ~ 2023.02) 
+
+<br />
 
 ## Projects
 <table>
@@ -46,12 +48,32 @@
   </tr>
 </table>
 
+<br />
+
 ## Tech Stack
-- Languages : Javascript, Typescript, Java
-- Frontend : React, React-Native, Vue
-- Backend : Springboot
-- Database : Mysql, Firebase
-- Communication : Git, Jira, Notion
+Languages :
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typecript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  
+Frontend :
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-512BD4?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+
+Backend : 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  
+Database : 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+
+Communication : 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+
+<br />
 
 ## Awards
 🏆 삼성 청년 SW 아카데미 공통 프로젝트 우수상 (2024.02)  
