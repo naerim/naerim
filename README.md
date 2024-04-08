@@ -41,11 +41,6 @@
     <td>요양병원에 있는 환자들과 영상 편지를 주고받는 소통 플랫폼 (2023) </td>
     <td>React, javascript, redux</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/naerim/dobble_website">Doble</a></td>
-    <td>기부 스토어 브랜드를 모아 한번에 볼 수 있는 통합 쇼핑몰 (2021) </td>
-    <td>React, javascript, redux, firebase</td>
-  </tr>
 </table>
 
 <br />
