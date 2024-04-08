@@ -3,7 +3,7 @@
 ## Experience
 💻 SSAFY (삼성 청년 SW 아카데미) 10기 재학 (2023.07~) 
 
-💻 IT 개발 동아리 PurpleCode 1기 (2020.03 ~ 2021.01)  
+💻 IT 개발 동아리 PurpleCode 1기 (2020.03 ~ 2021.11)  
 
 🎓 서울여자대학교 소프트웨어융합학과 졸업 (2018.03 ~ 2023.02) 
 
@@ -38,7 +38,7 @@
   </tr>
    <tr>
     <td><a href="https://github.com/eyear22/eyear_frontend">Eyear</a></td>
-    <td>요양병원에 있는 환자들과 영상 편지를 주고받는 소통 플랫폼 (2023) </td>
+    <td>요양병원에 있는 환자들과 영상 편지를 주고받는 소통 플랫폼 (2022) </td>
     <td>React, javascript, redux</td>
   </tr>
 </table>
