@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/naerim/switi_app">Switi</a></td>
-    <td>온/오프라인 스터디 모집 서비스 (2023) </td>
+    <td>온/오프라인 스터디 모집 서비스 (2021) </td>
     <td>React-Native, typescript, redux</td>
   </tr>
   <tr>
